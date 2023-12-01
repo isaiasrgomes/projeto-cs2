@@ -1,0 +1,18 @@
+body {
+    background: url("https://th.bing.com/th/id/R.ab9677d9f0b05f193c8eafcd5449d6d5?rik=pSpO5O7xV5%2fEJw&pid=ImgRaw&r=0");
+}
+
+
+.cad-link {
+    color: white;
+}
+
+a {
+    color: red;
+}
+
+a:hover {
+    text-decoration: none;
+    color: greenyellow;
+    transition: 0.3s;
+}
